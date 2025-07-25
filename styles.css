@@ -1,0 +1,6 @@
+body (min-width: 980x) {
+  width: 1000px;
+  height: 300px;
+  padding: 10px;
+  font-family: sans-serif;
+}

@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Kanji Grid Companion",
+  "version": "0.1",
+  "permissions": ["activeTab", "storage", "scripting", "contextMenus"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "js": ["content.js"]
+  }]
+}
