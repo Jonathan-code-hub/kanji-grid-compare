@@ -1,0 +1,10682 @@
+{
+  "一": {
+    "freq": 2,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "二": {
+    "freq": 9,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "九": {
+    "freq": 55,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "七": {
+    "freq": 115,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "人": {
+    "freq": 5,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "入": {
+    "freq": 56,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "八": {
+    "freq": 92,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "力": {
+    "freq": 62,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "十": {
+    "freq": 8,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "三": {
+    "freq": 14,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "上": {
+    "freq": 35,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "下": {
+    "freq": 97,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "口": {
+    "freq": 284,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "大": {
+    "freq": 7,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "女": {
+    "freq": 151,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "山": {
+    "freq": 131,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "川": {
+    "freq": 181,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "工": {
+    "freq": 299,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "刀": {
+    "freq": 1794,
+    "grade": 2,
+    "jlpt_new": 1
+  },
+  "土": {
+    "freq": 307,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "千": {
+    "freq": 195,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "夕": {
+    "freq": 924,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "子": {
+    "freq": 72,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "小": {
+    "freq": 114,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "丁": {
+    "freq": 1312,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "了": {
+    "freq": 792,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "又": {
+    "freq": 1874,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "丸": {
+    "freq": 542,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "才": {
+    "freq": 1497,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "中": {
+    "freq": 11,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "五": {
+    "freq": 31,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "六": {
+    "freq": 93,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "円": {
+    "freq": 69,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "天": {
+    "freq": 512,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "手": {
+    "freq": 60,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "文": {
+    "freq": 190,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "日": {
+    "freq": 1,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "月": {
+    "freq": 23,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "木": {
+    "freq": 317,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "水": {
+    "freq": 223,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "火": {
+    "freq": 574,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "犬": {
+    "freq": 1326,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "王": {
+    "freq": 684,
+    "grade": 1,
+    "jlpt_new": 3
+  },
+  "出": {
+    "freq": 13,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "右": {
+    "freq": 602,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "四": {
+    "freq": 47,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "左": {
+    "freq": 630,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "本": {
+    "freq": 10,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "正": {
+    "freq": 143,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "玉": {
+    "freq": 737,
+    "grade": 1,
+    "jlpt_new": 2
+  },
+  "田": {
+    "freq": 90,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "白": {
+    "freq": 483,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "目": {
+    "freq": 76,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "石": {
+    "freq": 342,
+    "grade": 1,
+    "jlpt_new": 3
+  },
+  "立": {
+    "freq": 58,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "万": {
+    "freq": 375,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "久": {
+    "freq": 688,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "今": {
+    "freq": 49,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "元": {
+    "freq": 192,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "公": {
+    "freq": 118,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "内": {
+    "freq": 44,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "分": {
+    "freq": 24,
+    "grade": 2,
+    "jlpt_new": null
+  },
+  "切": {
+    "freq": 324,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "午": {
+    "freq": 154,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "友": {
+    "freq": 622,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "太": {
+    "freq": 552,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "少": {
+    "freq": 287,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "引": {
+    "freq": 218,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "心": {
+    "freq": 157,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "戸": {
+    "freq": 575,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "方": {
+    "freq": 46,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "牛": {
+    "freq": 1202,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "父": {
+    "freq": 646,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "毛": {
+    "freq": 1179,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "止": {
+    "freq": 310,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "兄": {
+    "freq": 1219,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "冬": {
+    "freq": 1090,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "北": {
+    "freq": 153,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "半": {
+    "freq": 224,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "古": {
+    "freq": 509,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "台": {
+    "freq": 262,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "外": {
+    "freq": 81,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "市": {
+    "freq": 42,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "広": {
+    "freq": 263,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "母": {
+    "freq": 570,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "用": {
+    "freq": 107,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "矢": {
+    "freq": 1294,
+    "grade": 2,
+    "jlpt_new": 1
+  },
+  "世": {
+    "freq": 135,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "主": {
+    "freq": 95,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "他": {
+    "freq": 543,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "代": {
+    "freq": 66,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "写": {
+    "freq": 453,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "去": {
+    "freq": 440,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "号": {
+    "freq": 585,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "央": {
+    "freq": 582,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "平": {
+    "freq": 128,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "打": {
+    "freq": 239,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "氷": {
+    "freq": 1450,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "申": {
+    "freq": 492,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "皮": {
+    "freq": 1092,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "皿": {
+    "freq": 1812,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "礼": {
+    "freq": 1185,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "休": {
+    "freq": 642,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "先": {
+    "freq": 173,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "名": {
+    "freq": 177,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "字": {
+    "freq": 485,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "年": {
+    "freq": 6,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "早": {
+    "freq": 402,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "気": {
+    "freq": 113,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "百": {
+    "freq": 163,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "竹": {
+    "freq": 593,
+    "grade": 1,
+    "jlpt_new": 2
+  },
+  "糸": {
+    "freq": 1488,
+    "grade": 1,
+    "jlpt_new": 2
+  },
+  "耳": {
+    "freq": 1328,
+    "grade": 1,
+    "jlpt_new": 3
+  },
+  "虫": {
+    "freq": 1351,
+    "grade": 1,
+    "jlpt_new": 2
+  },
+  "村": {
+    "freq": 253,
+    "grade": 1,
+    "jlpt_new": 2
+  },
+  "男": {
+    "freq": 240,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "町": {
+    "freq": 292,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "花": {
+    "freq": 578,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "見": {
+    "freq": 22,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "貝": {
+    "freq": 1787,
+    "grade": 1,
+    "jlpt_new": 2
+  },
+  "赤": {
+    "freq": 584,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "足": {
+    "freq": 343,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "車": {
+    "freq": 333,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "不": {
+    "freq": 101,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "仕": {
+    "freq": 439,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "交": {
+    "freq": 178,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "会": {
+    "freq": 4,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "光": {
+    "freq": 527,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "同": {
+    "freq": 15,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "回": {
+    "freq": 50,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "多": {
+    "freq": 139,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "当": {
+    "freq": 91,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "毎": {
+    "freq": 436,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "池": {
+    "freq": 827,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "米": {
+    "freq": 61,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "羽": {
+    "freq": 748,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "考": {
+    "freq": 196,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "肉": {
+    "freq": 986,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "自": {
+    "freq": 19,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "色": {
+    "freq": 621,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "行": {
+    "freq": 20,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "西": {
+    "freq": 259,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "何": {
+    "freq": 340,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "体": {
+    "freq": 88,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "作": {
+    "freq": 103,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "図": {
+    "freq": 539,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "声": {
+    "freq": 388,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "売": {
+    "freq": 202,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "弟": {
+    "freq": 1161,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "形": {
+    "freq": 418,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "来": {
+    "freq": 102,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "社": {
+    "freq": 21,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "角": {
+    "freq": 805,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "言": {
+    "freq": 83,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "谷": {
+    "freq": 508,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "走": {
+    "freq": 626,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "近": {
+    "freq": 194,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "里": {
+    "freq": 1096,
+    "grade": 2,
+    "jlpt_new": null
+  },
+  "麦": {
+    "freq": 1615,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "学": {
+    "freq": 63,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "林": {
+    "freq": 656,
+    "grade": 1,
+    "jlpt_new": 2
+  },
+  "空": {
+    "freq": 304,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "金": {
+    "freq": 53,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "雨": {
+    "freq": 950,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "青": {
+    "freq": 589,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "草": {
+    "freq": 967,
+    "grade": 1,
+    "jlpt_new": 3
+  },
+  "音": {
+    "freq": 491,
+    "grade": 1,
+    "jlpt_new": 4
+  },
+  "化": {
+    "freq": 89,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "地": {
+    "freq": 40,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "両": {
+    "freq": 247,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "全": {
+    "freq": 75,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "向": {
+    "freq": 182,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "安": {
+    "freq": 144,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "州": {
+    "freq": 386,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "曲": {
+    "freq": 810,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "有": {
+    "freq": 282,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "次": {
+    "freq": 222,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "死": {
+    "freq": 229,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "羊": {
+    "freq": 1852,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "血": {
+    "freq": 832,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "京": {
+    "freq": 74,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "国": {
+    "freq": 3,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "夜": {
+    "freq": 487,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "妹": {
+    "freq": 1446,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "姉": {
+    "freq": 1473,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "店": {
+    "freq": 378,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "明": {
+    "freq": 67,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "東": {
+    "freq": 37,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "歩": {
+    "freq": 554,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "画": {
+    "freq": 199,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "直": {
+    "freq": 246,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "知": {
+    "freq": 205,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "長": {
+    "freq": 12,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "前": {
+    "freq": 27,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "南": {
+    "freq": 341,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "室": {
+    "freq": 550,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "後": {
+    "freq": 26,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "思": {
+    "freq": 132,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "星": {
+    "freq": 844,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "活": {
+    "freq": 171,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "海": {
+    "freq": 200,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "点": {
+    "freq": 165,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "科": {
+    "freq": 531,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "茶": {
+    "freq": 1116,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "食": {
+    "freq": 328,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "首": {
+    "freq": 98,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "欠": {
+    "freq": 860,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "氏": {
+    "freq": 84,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "由": {
+    "freq": 325,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "札": {
+    "freq": 921,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "民": {
+    "freq": 28,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "辺": {
+    "freq": 428,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "付": {
+    "freq": 322,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "以": {
+    "freq": 126,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "失": {
+    "freq": 447,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "必": {
+    "freq": 265,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "未": {
+    "freq": 650,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "末": {
+    "freq": 456,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "校": {
+    "freq": 294,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "夏": {
+    "freq": 659,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "家": {
+    "freq": 133,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "弱": {
+    "freq": 958,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "時": {
+    "freq": 16,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "紙": {
+    "freq": 559,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "記": {
+    "freq": 149,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "通": {
+    "freq": 80,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "高": {
+    "freq": 65,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "強": {
+    "freq": 112,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "教": {
+    "freq": 166,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "理": {
+    "freq": 86,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "組": {
+    "freq": 204,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "船": {
+    "freq": 713,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "週": {
+    "freq": 540,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "雪": {
+    "freq": 1131,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "魚": {
+    "freq": 1208,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "鳥": {
+    "freq": 1043,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "黄": {
+    "freq": 1240,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "黒": {
+    "freq": 573,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "支": {
+    "freq": 159,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "住": {
+    "freq": 270,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "助": {
+    "freq": 397,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "医": {
+    "freq": 437,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "君": {
+    "freq": 947,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "対": {
+    "freq": 34,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "局": {
+    "freq": 286,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "役": {
+    "freq": 315,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "投": {
+    "freq": 236,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "決": {
+    "freq": 71,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "究": {
+    "freq": 368,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "身": {
+    "freq": 320,
+    "grade": 3,
+    "jlpt_new": null
+  },
+  "者": {
+    "freq": 38,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "研": {
+    "freq": 336,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "馬": {
+    "freq": 639,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "森": {
+    "freq": 609,
+    "grade": 1,
+    "jlpt_new": 2
+  },
+  "場": {
+    "freq": 52,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "朝": {
+    "freq": 248,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "番": {
+    "freq": 348,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "答": {
+    "freq": 486,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "絵": {
+    "freq": 895,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "買": {
+    "freq": 520,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "道": {
+    "freq": 207,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "間": {
+    "freq": 33,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "雲": {
+    "freq": 1256,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "数": {
+    "freq": 148,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "楽": {
+    "freq": 373,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "話": {
+    "freq": 134,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "電": {
+    "freq": 268,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "所": {
+    "freq": 221,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "事": {
+    "freq": 18,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "使": {
+    "freq": 219,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "具": {
+    "freq": 629,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "受": {
+    "freq": 136,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "和": {
+    "freq": 124,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "始": {
+    "freq": 244,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "定": {
+    "freq": 48,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "実": {
+    "freq": 68,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "服": {
+    "freq": 873,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "泳": {
+    "freq": 1223,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "物": {
+    "freq": 215,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "苦": {
+    "freq": 623,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "表": {
+    "freq": 77,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "部": {
+    "freq": 36,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "乗": {
+    "freq": 377,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "客": {
+    "freq": 557,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "屋": {
+    "freq": 616,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "度": {
+    "freq": 110,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "待": {
+    "freq": 391,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "持": {
+    "freq": 119,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "界": {
+    "freq": 158,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "発": {
+    "freq": 32,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "相": {
+    "freq": 45,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "県": {
+    "freq": 140,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "美": {
+    "freq": 462,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "負": {
+    "freq": 443,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "送": {
+    "freq": 311,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "重": {
+    "freq": 193,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "談": {
+    "freq": 272,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "要": {
+    "freq": 106,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "勝": {
+    "freq": 185,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "仮": {
+    "freq": 1039,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "起": {
+    "freq": 374,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "速": {
+    "freq": 576,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "配": {
+    "freq": 359,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "酒": {
+    "freq": 1006,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "院": {
+    "freq": 150,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "終": {
+    "freq": 256,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "習": {
+    "freq": 706,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "転": {
+    "freq": 327,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "進": {
+    "freq": 142,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "落": {
+    "freq": 420,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "葉": {
+    "freq": 414,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "軽": {
+    "freq": 790,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "運": {
+    "freq": 255,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "開": {
+    "freq": 59,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "集": {
+    "freq": 210,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "飲": {
+    "freq": 969,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "業": {
+    "freq": 43,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "漢": {
+    "freq": 1487,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "路": {
+    "freq": 529,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "農": {
+    "freq": 385,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "鉄": {
+    "freq": 672,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "歌": {
+    "freq": 519,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "算": {
+    "freq": 361,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "聞": {
+    "freq": 319,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "語": {
+    "freq": 301,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "読": {
+    "freq": 618,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "鳴": {
+    "freq": 1279,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "線": {
+    "freq": 382,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "横": {
+    "freq": 480,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "調": {
+    "freq": 87,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "親": {
+    "freq": 406,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "頭": {
+    "freq": 433,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "顔": {
+    "freq": 676,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "病": {
+    "freq": 384,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "最": {
+    "freq": 82,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "争": {
+    "freq": 271,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "仲": {
+    "freq": 919,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "伝": {
+    "freq": 416,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "共": {
+    "freq": 174,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "好": {
+    "freq": 423,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "成": {
+    "freq": 116,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "老": {
+    "freq": 803,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "位": {
+    "freq": 276,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "低": {
+    "freq": 435,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "初": {
+    "freq": 152,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "別": {
+    "freq": 214,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "利": {
+    "freq": 203,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "努": {
+    "freq": 749,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "労": {
+    "freq": 398,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "命": {
+    "freq": 465,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "岸": {
+    "freq": 556,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "放": {
+    "freq": 288,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "昔": {
+    "freq": 1197,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "波": {
+    "freq": 740,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "注": {
+    "freq": 497,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "育": {
+    "freq": 369,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "拾": {
+    "freq": 1479,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "指": {
+    "freq": 155,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "洋": {
+    "freq": 763,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "神": {
+    "freq": 347,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "秒": {
+    "freq": 1015,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "級": {
+    "freq": 785,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "追": {
+    "freq": 411,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "戦": {
+    "freq": 78,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "競": {
+    "freq": 610,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "良": {
+    "freq": 501,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "功": {
+    "freq": 857,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "特": {
+    "freq": 234,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "便": {
+    "freq": 729,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "働": {
+    "freq": 417,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "令": {
+    "freq": 804,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "意": {
+    "freq": 99,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "味": {
+    "freq": 442,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "勉": {
+    "freq": 1066,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "庭": {
+    "freq": 816,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "息": {
+    "freq": 882,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "旅": {
+    "freq": 783,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "根": {
+    "freq": 620,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "流": {
+    "freq": 280,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "消": {
+    "freq": 345,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "倍": {
+    "freq": 714,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "員": {
+    "freq": 54,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "島": {
+    "freq": 245,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "祭": {
+    "freq": 1124,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "章": {
+    "freq": 990,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "第": {
+    "freq": 160,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "都": {
+    "freq": 123,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "動": {
+    "freq": 73,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "商": {
+    "freq": 413,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "悪": {
+    "freq": 530,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "族": {
+    "freq": 393,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "深": {
+    "freq": 484,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "球": {
+    "freq": 302,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "童": {
+    "freq": 1138,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "陽": {
+    "freq": 1071,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "階": {
+    "freq": 513,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "寒": {
+    "freq": 1456,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "悲": {
+    "freq": 1014,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "暑": {
+    "freq": 1442,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "期": {
+    "freq": 117,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "植": {
+    "freq": 699,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "歯": {
+    "freq": 1106,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "温": {
+    "freq": 838,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "港": {
+    "freq": 495,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "湯": {
+    "freq": 1356,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "登": {
+    "freq": 566,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "着": {
+    "freq": 376,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "短": {
+    "freq": 689,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "野": {
+    "freq": 120,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "泉": {
+    "freq": 1086,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "生": {
+    "freq": 29,
+    "grade": 1,
+    "jlpt_new": 5
+  },
+  "亡": {
+    "freq": 661,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "合": {
+    "freq": 41,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "風": {
+    "freq": 558,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "予": {
+    "freq": 180,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "反": {
+    "freq": 191,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "新": {
+    "freq": 51,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "返": {
+    "freq": 685,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "問": {
+    "freq": 64,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "宿": {
+    "freq": 701,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "想": {
+    "freq": 381,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "感": {
+    "freq": 233,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "整": {
+    "freq": 478,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "暗": {
+    "freq": 1040,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "様": {
+    "freq": 493,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "橋": {
+    "freq": 553,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "福": {
+    "freq": 467,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "緑": {
+    "freq": 1180,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "練": {
+    "freq": 788,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "詩": {
+    "freq": 1196,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "銀": {
+    "freq": 395,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "題": {
+    "freq": 96,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "館": {
+    "freq": 613,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "駅": {
+    "freq": 724,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "億": {
+    "freq": 716,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "器": {
+    "freq": 525,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "士": {
+    "freq": 526,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "料": {
+    "freq": 295,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "標": {
+    "freq": 686,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "殺": {
+    "freq": 581,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "然": {
+    "freq": 401,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "熱": {
+    "freq": 700,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "課": {
+    "freq": 455,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "賞": {
+    "freq": 426,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "輪": {
+    "freq": 693,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "選": {
+    "freq": 57,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "鏡": {
+    "freq": 1506,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "願": {
+    "freq": 894,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "養": {
+    "freq": 888,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "像": {
+    "freq": 856,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "情": {
+    "freq": 235,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "謝": {
+    "freq": 1028,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "映": {
+    "freq": 404,
+    "grade": 6,
+    "jlpt_new": 4
+  },
+  "疑": {
+    "freq": 283,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "皆": {
+    "freq": 1267,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "例": {
+    "freq": 399,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "卒": {
+    "freq": 772,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "協": {
+    "freq": 121,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "参": {
+    "freq": 201,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "周": {
+    "freq": 562,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "囲": {
+    "freq": 771,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "固": {
+    "freq": 750,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "季": {
+    "freq": 842,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "完": {
+    "freq": 595,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "希": {
+    "freq": 896,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "念": {
+    "freq": 390,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "折": {
+    "freq": 962,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "望": {
+    "freq": 470,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "材": {
+    "freq": 565,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "束": {
+    "freq": 918,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "松": {
+    "freq": 471,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "残": {
+    "freq": 380,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "求": {
+    "freq": 220,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "的": {
+    "freq": 105,
+    "grade": 4,
+    "jlpt_new": null
+  },
+  "約": {
+    "freq": 94,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "芸": {
+    "freq": 719,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "基": {
+    "freq": 241,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "性": {
+    "freq": 104,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "技": {
+    "freq": 434,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "格": {
+    "freq": 281,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "能": {
+    "freq": 273,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "術": {
+    "freq": 350,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "私": {
+    "freq": 242,
+    "grade": 6,
+    "jlpt_new": 4
+  },
+  "骨": {
+    "freq": 936,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "妥": {
+    "freq": 1102,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "雰": {
+    "freq": 1341,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "頑": {
+    "freq": 1247,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "寺": {
+    "freq": 879,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "岩": {
+    "freq": 787,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "帰": {
+    "freq": 504,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "春": {
+    "freq": 579,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "昼": {
+    "freq": 1115,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "晴": {
+    "freq": 1022,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "秋": {
+    "freq": 635,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "計": {
+    "freq": 228,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "列": {
+    "freq": 927,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "区": {
+    "freq": 137,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "坂": {
+    "freq": 865,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "式": {
+    "freq": 251,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "信": {
+    "freq": 208,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "勇": {
+    "freq": 1319,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "単": {
+    "freq": 586,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "司": {
+    "freq": 759,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "変": {
+    "freq": 238,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "夫": {
+    "freq": 335,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "建": {
+    "freq": 300,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "昨": {
+    "freq": 226,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "毒": {
+    "freq": 1419,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "法": {
+    "freq": 100,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "泣": {
+    "freq": 1380,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "浅": {
+    "freq": 1253,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "紀": {
+    "freq": 780,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "英": {
+    "freq": 430,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "軍": {
+    "freq": 189,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "飯": {
+    "freq": 1046,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "仏": {
+    "freq": 819,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "築": {
+    "freq": 821,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "晩": {
+    "freq": 1424,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "猫": {
+    "freq": 1702,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "園": {
+    "freq": 628,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "曜": {
+    "freq": 940,
+    "grade": 2,
+    "jlpt_new": 4
+  },
+  "書": {
+    "freq": 169,
+    "grade": 2,
+    "jlpt_new": 5
+  },
+  "遠": {
+    "freq": 887,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "門": {
+    "freq": 452,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "係": {
+    "freq": 232,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "取": {
+    "freq": 122,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "品": {
+    "freq": 225,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "守": {
+    "freq": 457,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "幸": {
+    "freq": 786,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "急": {
+    "freq": 309,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "真": {
+    "freq": 279,
+    "grade": 3,
+    "jlpt_new": 4
+  },
+  "箱": {
+    "freq": 1357,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "荷": {
+    "freq": 1230,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "面": {
+    "freq": 186,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "典": {
+    "freq": 1055,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "喜": {
+    "freq": 769,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "府": {
+    "freq": 170,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "治": {
+    "freq": 109,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "浴": {
+    "freq": 1136,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "笑": {
+    "freq": 913,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "辞": {
+    "freq": 633,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "関": {
+    "freq": 70,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "保": {
+    "freq": 146,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "弁": {
+    "freq": 619,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "政": {
+    "freq": 17,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "留": {
+    "freq": 731,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "証": {
+    "freq": 306,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "険": {
+    "freq": 707,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "危": {
+    "freq": 606,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "存": {
+    "freq": 577,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "専": {
+    "freq": 506,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "冒": {
+    "freq": 1317,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "冗": {
+    "freq": 1782,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "阪": {
+    "freq": 503,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "原": {
+    "freq": 172,
+    "grade": 2,
+    "jlpt_new": 3
+  },
+  "細": {
+    "freq": 537,
+    "grade": 2,
+    "jlpt_new": 2
+  },
+  "薬": {
+    "freq": 702,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "鼻": {
+    "freq": 1632,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "側": {
+    "freq": 216,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "兵": {
+    "freq": 522,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "堂": {
+    "freq": 1010,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "塩": {
+    "freq": 1148,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "席": {
+    "freq": 370,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "敗": {
+    "freq": 516,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "果": {
+    "freq": 258,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "栄": {
+    "freq": 920,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "梅": {
+    "freq": 1232,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "無": {
+    "freq": 274,
+    "grade": 4,
+    "jlpt_new": null
+  },
+  "結": {
+    "freq": 162,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "因": {
+    "freq": 636,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "常": {
+    "freq": 293,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "識": {
+    "freq": 496,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "非": {
+    "freq": 472,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "干": {
+    "freq": 1349,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "是": {
+    "freq": 1045,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "渉": {
+    "freq": 499,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "虚": {
+    "freq": 1454,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "官": {
+    "freq": 230,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "察": {
+    "freq": 477,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "底": {
+    "freq": 867,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "愛": {
+    "freq": 640,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "署": {
+    "freq": 725,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "警": {
+    "freq": 366,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "恋": {
+    "freq": 1296,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "覚": {
+    "freq": 710,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "説": {
+    "freq": 326,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "幻": {
+    "freq": 1564,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "訓": {
+    "freq": 1134,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "試": {
+    "freq": 392,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "弓": {
+    "freq": 1802,
+    "grade": 2,
+    "jlpt_new": 1
+  },
+  "告": {
+    "freq": 188,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "種": {
+    "freq": 461,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "達": {
+    "freq": 500,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "類": {
+    "freq": 678,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "報": {
+    "freq": 167,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "祈": {
+    "freq": 1462,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "等": {
+    "freq": 798,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "汽": {
+    "freq": 2020,
+    "grade": 2,
+    "jlpt_new": 1
+  },
+  "借": {
+    "freq": 932,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "焼": {
+    "freq": 982,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "座": {
+    "freq": 588,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "忘": {
+    "freq": 1129,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "洗": {
+    "freq": 1168,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "胸": {
+    "freq": 1144,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "脳": {
+    "freq": 459,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "僧": {
+    "freq": 1724,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "禅": {
+    "freq": 1902,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "験": {
+    "freq": 410,
+    "grade": 4,
+    "jlpt_new": 4
+  },
+  "可": {
+    "freq": 314,
+    "grade": 5,
+    "jlpt_new": null
+  },
+  "許": {
+    "freq": 720,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "枚": {
+    "freq": 911,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "静": {
+    "freq": 764,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "句": {
+    "freq": 1244,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "禁": {
+    "freq": 681,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "喫": {
+    "freq": 1347,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "煙": {
+    "freq": 1290,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "加": {
+    "freq": 130,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "節": {
+    "freq": 934,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "減": {
+    "freq": 261,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "順": {
+    "freq": 779,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "容": {
+    "freq": 264,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "布": {
+    "freq": 877,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "易": {
+    "freq": 571,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "財": {
+    "freq": 494,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "若": {
+    "freq": 458,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "詞": {
+    "freq": 1636,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "昆": {
+    "freq": 1688,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "閥": {
+    "freq": 1072,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "歴": {
+    "freq": 632,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "舌": {
+    "freq": 1830,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "冊": {
+    "freq": 1313,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "宇": {
+    "freq": 883,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "宙": {
+    "freq": 1005,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "忙": {
+    "freq": 1475,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "履": {
+    "freq": 1619,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "団": {
+    "freq": 213,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "暴": {
+    "freq": 692,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "混": {
+    "freq": 824,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "乱": {
+    "freq": 755,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "徒": {
+    "freq": 817,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "得": {
+    "freq": 175,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "改": {
+    "freq": 147,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "続": {
+    "freq": 141,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "連": {
+    "freq": 30,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "善": {
+    "freq": 765,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "困": {
+    "freq": 843,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "絡": {
+    "freq": 806,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "比": {
+    "freq": 329,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "災": {
+    "freq": 976,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "機": {
+    "freq": 127,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "率": {
+    "freq": 383,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "飛": {
+    "freq": 580,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "害": {
+    "freq": 358,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "余": {
+    "freq": 680,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "難": {
+    "freq": 330,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "妨": {
+    "freq": 1482,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "被": {
+    "freq": 431,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "裕": {
+    "freq": 1048,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "震": {
+    "freq": 893,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "尻": {
+    "freq": 1692,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "尾": {
+    "freq": 875,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "械": {
+    "freq": 1321,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "確": {
+    "freq": 252,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "嫌": {
+    "freq": 1207,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "個": {
+    "freq": 451,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "圧": {
+    "freq": 718,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "在": {
+    "freq": 211,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "夢": {
+    "freq": 943,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "産": {
+    "freq": 161,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "倒": {
+    "freq": 791,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "臭": {
+    "freq": 1760,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "厚": {
+    "freq": 768,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "妻": {
+    "freq": 691,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "議": {
+    "freq": 25,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "犯": {
+    "freq": 874,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "罪": {
+    "freq": 732,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "防": {
+    "freq": 331,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "穴": {
+    "freq": 1366,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "論": {
+    "freq": 227,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "経": {
+    "freq": 79,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "笛": {
+    "freq": 1928,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "史": {
+    "freq": 511,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "敵": {
+    "freq": 1205,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "済": {
+    "freq": 168,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "委": {
+    "freq": 187,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "挙": {
+    "freq": 257,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "判": {
+    "freq": 197,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "制": {
+    "freq": 108,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "務": {
+    "freq": 111,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "査": {
+    "freq": 184,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "総": {
+    "freq": 129,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "設": {
+    "freq": 145,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "資": {
+    "freq": 179,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "権": {
+    "freq": 156,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "件": {
+    "freq": 212,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "派": {
+    "freq": 164,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "岡": {
+    "freq": 463,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "素": {
+    "freq": 660,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "断": {
+    "freq": 338,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "評": {
+    "freq": 454,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "批": {
+    "freq": 568,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "任": {
+    "freq": 217,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "検": {
+    "freq": 290,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "審": {
+    "freq": 412,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "条": {
+    "freq": 363,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "責": {
+    "freq": 598,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "省": {
+    "freq": 548,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "増": {
+    "freq": 231,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "税": {
+    "freq": 289,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "解": {
+    "freq": 176,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "際": {
+    "freq": 183,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "認": {
+    "freq": 198,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "企": {
+    "freq": 278,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "義": {
+    "freq": 415,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "罰": {
+    "freq": 1220,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "誕": {
+    "freq": 1024,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "脱": {
+    "freq": 782,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "過": {
+    "freq": 285,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "坊": {
+    "freq": 1832,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "寝": {
+    "freq": 1034,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "宮": {
+    "freq": 367,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "各": {
+    "freq": 243,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "案": {
+    "freq": 206,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "置": {
+    "freq": 277,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "費": {
+    "freq": 321,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "価": {
+    "freq": 250,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "勢": {
+    "freq": 260,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "営": {
+    "freq": 303,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "示": {
+    "freq": 237,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "統": {
+    "freq": 125,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "領": {
+    "freq": 138,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "策": {
+    "freq": 209,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "藤": {
+    "freq": 291,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "副": {
+    "freq": 360,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "観": {
+    "freq": 476,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "値": {
+    "freq": 518,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "吸": {
+    "freq": 1054,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "域": {
+    "freq": 396,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "姿": {
+    "freq": 441,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "応": {
+    "freq": 266,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "提": {
+    "freq": 254,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "援": {
+    "freq": 312,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "状": {
+    "freq": 298,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "態": {
+    "freq": 353,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "賀": {
+    "freq": 1056,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "収": {
+    "freq": 337,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "停": {
+    "freq": 733,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "革": {
+    "freq": 249,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "職": {
+    "freq": 305,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "鬼": {
+    "freq": 1557,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "規": {
+    "freq": 349,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "護": {
+    "freq": 351,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "割": {
+    "freq": 318,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "裁": {
+    "freq": 297,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "崎": {
+    "freq": 533,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "演": {
+    "freq": 267,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "律": {
+    "freq": 992,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "師": {
+    "freq": 563,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "看": {
+    "freq": 1060,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "準": {
+    "freq": 425,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "則": {
+    "freq": 753,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "備": {
+    "freq": 356,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "導": {
+    "freq": 354,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "幹": {
+    "freq": 364,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "張": {
+    "freq": 403,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "優": {
+    "freq": 334,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "宅": {
+    "freq": 357,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "沢": {
+    "freq": 296,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "施": {
+    "freq": 323,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "現": {
+    "freq": 85,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "乳": {
+    "freq": 1289,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "呼": {
+    "freq": 498,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "城": {
+    "freq": 795,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "俳": {
+    "freq": 1137,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "秀": {
+    "freq": 848,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "担": {
+    "freq": 422,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "額": {
+    "freq": 407,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "製": {
+    "freq": 488,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "違": {
+    "freq": 344,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "輸": {
+    "freq": 371,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "燃": {
+    "freq": 948,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "祝": {
+    "freq": 1184,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "届": {
+    "freq": 939,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "狭": {
+    "freq": 1346,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "肩": {
+    "freq": 1215,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "腕": {
+    "freq": 1163,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "腰": {
+    "freq": 1306,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "触": {
+    "freq": 904,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "載": {
+    "freq": 825,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "層": {
+    "freq": 801,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "型": {
+    "freq": 482,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "庁": {
+    "freq": 793,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "視": {
+    "freq": 362,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "差": {
+    "freq": 449,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "管": {
+    "freq": 517,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "象": {
+    "freq": 394,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "量": {
+    "freq": 469,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "境": {
+    "freq": 346,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "環": {
+    "freq": 409,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "武": {
+    "freq": 387,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "質": {
+    "freq": 389,
+    "grade": 5,
+    "jlpt_new": 4
+  },
+  "述": {
+    "freq": 379,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "供": {
+    "freq": 313,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "展": {
+    "freq": 352,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "販": {
+    "freq": 627,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "株": {
+    "freq": 432,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "限": {
+    "freq": 405,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "与": {
+    "freq": 308,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "含": {
+    "freq": 466,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "影": {
+    "freq": 464,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "況": {
+    "freq": 490,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "渡": {
+    "freq": 446,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "響": {
+    "freq": 502,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "票": {
+    "freq": 489,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "景": {
+    "freq": 419,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "抜": {
+    "freq": 726,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "訴": {
+    "freq": 427,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "訟": {
+    "freq": 1061,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "逮": {
+    "freq": 766,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "補": {
+    "freq": 332,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "候": {
+    "freq": 510,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "構": {
+    "freq": 316,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "模": {
+    "freq": 668,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "捕": {
+    "freq": 604,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "鮮": {
+    "freq": 355,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "効": {
+    "freq": 538,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "属": {
+    "freq": 912,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "慣": {
+    "freq": 1177,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "豊": {
+    "freq": 762,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "満": {
+    "freq": 515,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "肥": {
+    "freq": 1469,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "巻": {
+    "freq": 944,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "捜": {
+    "freq": 592,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "絞": {
+    "freq": 1288,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "輩": {
+    "freq": 1365,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "隠": {
+    "freq": 1089,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "掛": {
+    "freq": 1027,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "替": {
+    "freq": 979,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "居": {
+    "freq": 836,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "造": {
+    "freq": 429,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "授": {
+    "freq": 535,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "印": {
+    "freq": 682,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "創": {
+    "freq": 741,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "復": {
+    "freq": 438,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "往": {
+    "freq": 1421,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "較": {
+    "freq": 1172,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "筆": {
+    "freq": 1132,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "鉛": {
+    "freq": 1710,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "貯": {
+    "freq": 1100,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "故": {
+    "freq": 612,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "障": {
+    "freq": 742,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "従": {
+    "freq": 601,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "我": {
+    "freq": 829,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "激": {
+    "freq": 560,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "刺": {
+    "freq": 1031,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "励": {
+    "freq": 1254,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "討": {
+    "freq": 528,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "郵": {
+    "freq": 917,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "針": {
+    "freq": 505,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "徴": {
+    "freq": 850,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "怪": {
+    "freq": 1634,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "獣": {
+    "freq": 1714,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "突": {
+    "freq": 521,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "菓": {
+    "freq": 1719,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "河": {
+    "freq": 663,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "振": {
+    "freq": 614,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "汗": {
+    "freq": 1502,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "豚": {
+    "freq": 1864,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "再": {
+    "freq": 275,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "接": {
+    "freq": 523,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "独": {
+    "freq": 365,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "占": {
+    "freq": 694,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "招": {
+    "freq": 840,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "段": {
+    "freq": 479,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "胃": {
+    "freq": 1647,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "腹": {
+    "freq": 1286,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "痛": {
+    "freq": 903,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "退": {
+    "freq": 424,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "屈": {
+    "freq": 1434,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "悩": {
+    "freq": 1084,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "暇": {
+    "freq": 1386,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "織": {
+    "freq": 608,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "貸": {
+    "freq": 995,
+    "grade": 5,
+    "jlpt_new": 4
+  },
+  "迷": {
+    "freq": 942,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "惑": {
+    "freq": 777,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "誘": {
+    "freq": 993,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "就": {
+    "freq": 624,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "訪": {
+    "freq": 372,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "怒": {
+    "freq": 1221,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "昇": {
+    "freq": 826,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "眠": {
+    "freq": 1315,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "睡": {
+    "freq": 1739,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "症": {
+    "freq": 1111,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "締": {
+    "freq": 797,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "迫": {
+    "freq": 773,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "靴": {
+    "freq": 1561,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "濃": {
+    "freq": 1200,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "端": {
+    "freq": 960,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "極": {
+    "freq": 460,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "途": {
+    "freq": 717,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "健": {
+    "freq": 572,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "康": {
+    "freq": 760,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "郎": {
+    "freq": 569,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "給": {
+    "freq": 615,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "逆": {
+    "freq": 683,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "巨": {
+    "freq": 892,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "庫": {
+    "freq": 852,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "児": {
+    "freq": 679,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "冷": {
+    "freq": 667,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "凍": {
+    "freq": 1284,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "幼": {
+    "freq": 1227,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "稚": {
+    "freq": 1560,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "処": {
+    "freq": 547,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "博": {
+    "freq": 794,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "清": {
+    "freq": 705,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "潔": {
+    "freq": 1595,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "録": {
+    "freq": 546,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "隊": {
+    "freq": 605,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "修": {
+    "freq": 603,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "券": {
+    "freq": 583,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "婦": {
+    "freq": 671,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "奇": {
+    "freq": 1367,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "妙": {
+    "freq": 1122,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "麗": {
+    "freq": 1758,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "微": {
+    "freq": 1108,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "益": {
+    "freq": 674,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "移": {
+    "freq": 448,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "程": {
+    "freq": 514,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "精": {
+    "freq": 752,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "絶": {
+    "freq": 784,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "並": {
+    "freq": 599,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "憲": {
+    "freq": 551,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "衆": {
+    "freq": 450,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "傘": {
+    "freq": 1694,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "浜": {
+    "freq": 645,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "撃": {
+    "freq": 473,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "攻": {
+    "freq": 532,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "監": {
+    "freq": 408,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "杯": {
+    "freq": 1235,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "乾": {
+    "freq": 1453,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "催": {
+    "freq": 536,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "促": {
+    "freq": 998,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "欧": {
+    "freq": 421,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "江": {
+    "freq": 704,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "請": {
+    "freq": 524,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "雄": {
+    "freq": 669,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "韓": {
+    "freq": 445,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "壊": {
+    "freq": 727,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "診": {
+    "freq": 1019,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "閣": {
+    "freq": 444,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "僚": {
+    "freq": 709,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "積": {
+    "freq": 541,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "督": {
+    "freq": 534,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "臣": {
+    "freq": 1249,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "略": {
+    "freq": 774,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "航": {
+    "freq": 665,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "寄": {
+    "freq": 673,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "板": {
+    "freq": 926,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "街": {
+    "freq": 891,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "宗": {
+    "freq": 997,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "緊": {
+    "freq": 677,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "娘": {
+    "freq": 1145,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "宴": {
+    "freq": 1675,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "怖": {
+    "freq": 1325,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "恐": {
+    "freq": 878,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "添": {
+    "freq": 1501,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "猛": {
+    "freq": 1301,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "烈": {
+    "freq": 1397,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "索": {
+    "freq": 1127,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "詰": {
+    "freq": 1020,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "詳": {
+    "freq": 1178,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "魅": {
+    "freq": 1206,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "渇": {
+    "freq": 1944,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "系": {
+    "freq": 567,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "婚": {
+    "freq": 767,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "遊": {
+    "freq": 941,
+    "grade": 3,
+    "jlpt_new": 3
+  },
+  "旗": {
+    "freq": 1190,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "照": {
+    "freq": 1004,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "快": {
+    "freq": 1074,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "版": {
+    "freq": 802,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "貧": {
+    "freq": 1211,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "乏": {
+    "freq": 1646,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "適": {
+    "freq": 670,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "預": {
+    "freq": 981,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "延": {
+    "freq": 747,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "翌": {
+    "freq": 1070,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "覧": {
+    "freq": 1510,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "懐": {
+    "freq": 1493,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "押": {
+    "freq": 789,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "更": {
+    "freq": 861,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "枕": {
+    "freq": 2084,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "浮": {
+    "freq": 776,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "漏": {
+    "freq": 1298,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "符": {
+    "freq": 1798,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "購": {
+    "freq": 945,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "越": {
+    "freq": 897,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "飾": {
+    "freq": 1193,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "騒": {
+    "freq": 1069,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "背": {
+    "freq": 696,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "撮": {
+    "freq": 1023,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "盗": {
+    "freq": 1051,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "離": {
+    "freq": 555,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "融": {
+    "freq": 481,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "編": {
+    "freq": 591,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "華": {
+    "freq": 1085,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "既": {
+    "freq": 1081,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "普": {
+    "freq": 757,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "豪": {
+    "freq": 1104,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鑑": {
+    "freq": 1391,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "除": {
+    "freq": 594,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "尋": {
+    "freq": 1398,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "幾": {
+    "freq": 1725,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "廊": {
+    "freq": 1598,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "掃": {
+    "freq": 1255,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "泥": {
+    "freq": 1589,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "棒": {
+    "freq": 1455,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "驚": {
+    "freq": 1141,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "嘆": {
+    "freq": 1584,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "倉": {
+    "freq": 1114,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "孫": {
+    "freq": 1388,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "巣": {
+    "freq": 1588,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "帯": {
+    "freq": 746,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "径": {
+    "freq": 1435,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "救": {
+    "freq": 799,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "散": {
+    "freq": 758,
+    "grade": 4,
+    "jlpt_new": 3
+  },
+  "粉": {
+    "freq": 1484,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "脈": {
+    "freq": 1477,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "菜": {
+    "freq": 1327,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "貨": {
+    "freq": 822,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "陸": {
+    "freq": 736,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "似": {
+    "freq": 923,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "均": {
+    "freq": 715,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "墓": {
+    "freq": 1337,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "富": {
+    "freq": 644,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "徳": {
+    "freq": 1091,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "探": {
+    "freq": 930,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "偵": {
+    "freq": 1857,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "序": {
+    "freq": 1160,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "迎": {
+    "freq": 625,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "志": {
+    "freq": 823,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "恩": {
+    "freq": 1418,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "採": {
+    "freq": 607,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "桜": {
+    "freq": 1237,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "永": {
+    "freq": 846,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "液": {
+    "freq": 1210,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "眼": {
+    "freq": 1527,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "祖": {
+    "freq": 1226,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "績": {
+    "freq": 820,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "興": {
+    "freq": 734,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "衛": {
+    "freq": 400,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "複": {
+    "freq": 915,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "雑": {
+    "freq": 839,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "賛": {
+    "freq": 868,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "酸": {
+    "freq": 1218,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "銭": {
+    "freq": 1008,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "飼": {
+    "freq": 1392,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "傷": {
+    "freq": 845,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "党": {
+    "freq": 39,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "卵": {
+    "freq": 1342,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "厳": {
+    "freq": 638,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "捨": {
+    "freq": 1266,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "込": {
+    "freq": 675,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "密": {
+    "freq": 815,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "汚": {
+    "freq": 908,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "欲": {
+    "freq": 902,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "暖": {
+    "freq": 1371,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "机": {
+    "freq": 1671,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "秘": {
+    "freq": 862,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "訳": {
+    "freq": 1050,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "染": {
+    "freq": 837,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "簡": {
+    "freq": 983,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "閉": {
+    "freq": 951,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "誌": {
+    "freq": 851,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "窓": {
+    "freq": 1186,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "否": {
+    "freq": 561,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "筋": {
+    "freq": 744,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "垂": {
+    "freq": 1720,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "宝": {
+    "freq": 1139,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "宣": {
+    "freq": 695,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "尊": {
+    "freq": 1181,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "忠": {
+    "freq": 1113,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "拡": {
+    "freq": 611,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "操": {
+    "freq": 1016,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "敬": {
+    "freq": 1078,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "暮": {
+    "freq": 978,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "灰": {
+    "freq": 1717,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "熟": {
+    "freq": 1415,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "異": {
+    "freq": 631,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "皇": {
+    "freq": 721,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "盛": {
+    "freq": 712,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "砂": {
+    "freq": 1146,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "漠": {
+    "freq": 1611,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "糖": {
+    "freq": 1471,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "納": {
+    "freq": 987,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "肺": {
+    "freq": 1387,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "著": {
+    "freq": 849,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "蒸": {
+    "freq": 1552,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "蔵": {
+    "freq": 468,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "装": {
+    "freq": 657,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "裏": {
+    "freq": 812,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "諸": {
+    "freq": 658,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "賃": {
+    "freq": 961,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "誤": {
+    "freq": 1150,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "臓": {
+    "freq": 991,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "貴": {
+    "freq": 970,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "降": {
+    "freq": 596,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "丼": {
+    "freq": 2088,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "吐": {
+    "freq": 1674,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "奴": {
+    "freq": 1932,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "隷": {
+    "freq": 2009,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "芋": {
+    "freq": 2418,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "縮": {
+    "freq": 909,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "純": {
+    "freq": 1044,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "縦": {
+    "freq": 1258,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "粋": {
+    "freq": 1768,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "聖": {
+    "freq": 1165,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "磁": {
+    "freq": 1686,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "紅": {
+    "freq": 1299,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "射": {
+    "freq": 937,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "幕": {
+    "freq": 835,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "拝": {
+    "freq": 1443,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "薦": {
+    "freq": 1082,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "推": {
+    "freq": 507,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "揮": {
+    "freq": 946,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "沿": {
+    "freq": 1121,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "源": {
+    "freq": 738,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "劇": {
+    "freq": 662,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "勤": {
+    "freq": 830,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "歓": {
+    "freq": 1065,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "承": {
+    "freq": 775,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "損": {
+    "freq": 807,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "枝": {
+    "freq": 1401,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "爪": {
+    "freq": 2025,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "豆": {
+    "freq": 1422,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "刻": {
+    "freq": 866,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "腐": {
+    "freq": 1225,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "遅": {
+    "freq": 833,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "彫": {
+    "freq": 1533,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "測": {
+    "freq": 761,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "破": {
+    "freq": 590,
+    "grade": 5,
+    "jlpt_new": 3
+  },
+  "舎": {
+    "freq": 1170,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "講": {
+    "freq": 653,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "滞": {
+    "freq": 1107,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "紹": {
+    "freq": 963,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "介": {
+    "freq": 617,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "己": {
+    "freq": 1098,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "厄": {
+    "freq": 2123,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "亀": {
+    "freq": 1353,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "互": {
+    "freq": 914,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "剣": {
+    "freq": 1305,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "寿": {
+    "freq": 1245,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "彼": {
+    "freq": 648,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "恥": {
+    "freq": 1575,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "杉": {
+    "freq": 1095,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "汁": {
+    "freq": 1843,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "炎": {
+    "freq": 1242,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "為": {
+    "freq": 831,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "熊": {
+    "freq": 1105,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "獄": {
+    "freq": 1529,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "酔": {
+    "freq": 1640,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "酢": {
+    "freq": 1955,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鍋": {
+    "freq": 1810,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "湖": {
+    "freq": 1344,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "銅": {
+    "freq": 1505,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "払": {
+    "freq": 813,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "油": {
+    "freq": 690,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "旧": {
+    "freq": 549,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "姓": {
+    "freq": 1628,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "貿": {
+    "freq": 652,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "将": {
+    "freq": 634,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "盟": {
+    "freq": 587,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "遺": {
+    "freq": 647,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "伸": {
+    "freq": 730,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "債": {
+    "freq": 728,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "及": {
+    "freq": 544,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "奈": {
+    "freq": 841,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "幅": {
+    "freq": 641,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "廃": {
+    "freq": 698,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "甘": {
+    "freq": 1248,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "換": {
+    "freq": 687,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "摘": {
+    "freq": 564,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "核": {
+    "freq": 475,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "沖": {
+    "freq": 929,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "縄": {
+    "freq": 1075,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "津": {
+    "freq": 1036,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "献": {
+    "freq": 637,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "療": {
+    "freq": 600,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "継": {
+    "freq": 743,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "維": {
+    "freq": 643,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "舞": {
+    "freq": 655,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "伎": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "踏": {
+    "freq": 723,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "般": {
+    "freq": 649,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "頼": {
+    "freq": 708,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "依": {
+    "freq": 906,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "鹿": {
+    "freq": 957,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "諾": {
+    "freq": 1490,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "牙": {
+    "freq": 2067,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "跳": {
+    "freq": 1716,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "昭": {
+    "freq": 697,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "漁": {
+    "freq": 1094,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "償": {
+    "freq": 854,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "刑": {
+    "freq": 864,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "募": {
+    "freq": 809,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "執": {
+    "freq": 800,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "塁": {
+    "freq": 651,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "崩": {
+    "freq": 778,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "患": {
+    "freq": 796,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "戻": {
+    "freq": 890,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "抗": {
+    "freq": 666,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "抵": {
+    "freq": 1182,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "旬": {
+    "freq": 1162,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "湾": {
+    "freq": 545,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "爆": {
+    "freq": 735,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "弾": {
+    "freq": 853,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "聴": {
+    "freq": 781,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "跡": {
+    "freq": 953,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "遣": {
+    "freq": 664,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "闘": {
+    "freq": 751,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "陣": {
+    "freq": 828,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "香": {
+    "freq": 859,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "兆": {
+    "freq": 1174,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "臨": {
+    "freq": 722,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "削": {
+    "freq": 814,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "契": {
+    "freq": 898,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "恵": {
+    "freq": 925,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "抱": {
+    "freq": 871,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "掲": {
+    "freq": 899,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "狙": {
+    "freq": 745,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "葬": {
+    "freq": 754,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "需": {
+    "freq": 935,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "齢": {
+    "freq": 770,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "宜": {
+    "freq": 1766,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "繰": {
+    "freq": 872,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "避": {
+    "freq": 756,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "妊": {
+    "freq": 1413,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "娠": {
+    "freq": 1623,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "致": {
+    "freq": 870,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "刊": {
+    "freq": 855,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "奏": {
+    "freq": 1067,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "伴": {
+    "freq": 886,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "併": {
+    "freq": 966,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "傾": {
+    "freq": 938,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "却": {
+    "freq": 959,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "奥": {
+    "freq": 1018,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "慮": {
+    "freq": 916,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "懸": {
+    "freq": 889,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "房": {
+    "freq": 808,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "扱": {
+    "freq": 1057,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "抑": {
+    "freq": 834,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "択": {
+    "freq": 847,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "描": {
+    "freq": 876,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "盤": {
+    "freq": 881,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "称": {
+    "freq": 985,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "緒": {
+    "freq": 952,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "緩": {
+    "freq": 933,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "託": {
+    "freq": 1021,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "賄": {
+    "freq": 1282,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "賂": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "贈": {
+    "freq": 1001,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "逃": {
+    "freq": 931,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "還": {
+    "freq": 910,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "超": {
+    "freq": 597,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "邦": {
+    "freq": 654,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鈴": {
+    "freq": 880,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "阜": {
+    "freq": 1532,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "岐": {
+    "freq": 1428,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "隆": {
+    "freq": 1109,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "雇": {
+    "freq": 975,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "控": {
+    "freq": 1000,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "壁": {
+    "freq": 1037,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "棋": {
+    "freq": 1311,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "渋": {
+    "freq": 1011,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "片": {
+    "freq": 1076,
+    "grade": 6,
+    "jlpt_new": 2
+  },
+  "群": {
+    "freq": 1012,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "仙": {
+    "freq": 1157,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "充": {
+    "freq": 949,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "免": {
+    "freq": 1080,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "勧": {
+    "freq": 1068,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "圏": {
+    "freq": 1216,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "埋": {
+    "freq": 1110,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "埼": {
+    "freq": 971,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "奪": {
+    "freq": 974,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "御": {
+    "freq": 1087,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "慎": {
+    "freq": 999,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拒": {
+    "freq": 863,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "枠": {
+    "freq": 922,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "甲": {
+    "freq": 1073,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "祉": {
+    "freq": 1063,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "稲": {
+    "freq": 1038,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "譲": {
+    "freq": 984,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "謙": {
+    "freq": 1582,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "躍": {
+    "freq": 900,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "銃": {
+    "freq": 1013,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "項": {
+    "freq": 884,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鋼": {
+    "freq": 1246,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "顧": {
+    "freq": 1058,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "駐": {
+    "freq": 955,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "駆": {
+    "freq": 1033,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "柱": {
+    "freq": 1119,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "唱": {
+    "freq": 1123,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "孝": {
+    "freq": 1030,
+    "grade": 6,
+    "jlpt_new": null
+  },
+  "俊": {
+    "freq": 1007,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "兼": {
+    "freq": 1164,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "剤": {
+    "freq": 1151,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "吹": {
+    "freq": 1133,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "堀": {
+    "freq": 1285,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "巡": {
+    "freq": 1262,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "戒": {
+    "freq": 1062,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "排": {
+    "freq": 1047,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "携": {
+    "freq": 1017,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "敏": {
+    "freq": 1042,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鋭": {
+    "freq": 1395,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "敷": {
+    "freq": 1212,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "殿": {
+    "freq": 1199,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "犠": {
+    "freq": 1189,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "獲": {
+    "freq": 964,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "茂": {
+    "freq": 1188,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "繁": {
+    "freq": 1198,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "頻": {
+    "freq": 1590,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "殖": {
+    "freq": 1362,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "薄": {
+    "freq": 1009,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "衝": {
+    "freq": 972,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "誉": {
+    "freq": 1064,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "褒": {
+    "freq": 2073,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "透": {
+    "freq": 1035,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "隣": {
+    "freq": 1083,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "雅": {
+    "freq": 1192,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "遜": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "伺": {
+    "freq": 2209,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "徹": {
+    "freq": 968,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "瀬": {
+    "freq": 1152,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "撤": {
+    "freq": 811,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "措": {
+    "freq": 818,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拠": {
+    "freq": 858,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "儀": {
+    "freq": 739,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "樹": {
+    "freq": 988,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "棄": {
+    "freq": 901,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "虎": {
+    "freq": 1653,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "蛍": {
+    "freq": 2031,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "蜂": {
+    "freq": 2223,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "酎": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "蜜": {
+    "freq": 2203,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "艦": {
+    "freq": 1363,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "潜": {
+    "freq": 1329,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拳": {
+    "freq": 1935,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "炭": {
+    "freq": 1307,
+    "grade": 3,
+    "jlpt_new": 2
+  },
+  "畑": {
+    "freq": 1176,
+    "grade": 3,
+    "jlpt_new": null
+  },
+  "包": {
+    "freq": 954,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "衣": {
+    "freq": 1214,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "仁": {
+    "freq": 1332,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "鉱": {
+    "freq": 1376,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "至": {
+    "freq": 996,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "誠": {
+    "freq": 1128,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "郷": {
+    "freq": 1077,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "侵": {
+    "freq": 1025,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "偽": {
+    "freq": 1171,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "克": {
+    "freq": 1333,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "到": {
+    "freq": 1032,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "双": {
+    "freq": 1029,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "哲": {
+    "freq": 1093,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "喪": {
+    "freq": 885,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "堅": {
+    "freq": 1049,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "床": {
+    "freq": 1175,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "括": {
+    "freq": 1026,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "弧": {
+    "freq": 2371,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "挑": {
+    "freq": 989,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "掘": {
+    "freq": 1257,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "揚": {
+    "freq": 1316,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "握": {
+    "freq": 1003,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "揺": {
+    "freq": 1079,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "斎": {
+    "freq": 1155,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "暫": {
+    "freq": 1112,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "析": {
+    "freq": 980,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "枢": {
+    "freq": 1791,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "軸": {
+    "freq": 1261,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "柄": {
+    "freq": 1140,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "泊": {
+    "freq": 1233,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "滑": {
+    "freq": 1238,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "潟": {
+    "freq": 1204,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "焦": {
+    "freq": 973,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "範": {
+    "freq": 1088,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "紛": {
+    "freq": 994,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "糾": {
+    "freq": 1820,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "綱": {
+    "freq": 1053,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "網": {
+    "freq": 1194,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "肝": {
+    "freq": 1118,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "芝": {
+    "freq": 1052,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "荒": {
+    "freq": 1099,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "袋": {
+    "freq": 1125,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "誰": {
+    "freq": 1933,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "珍": {
+    "freq": 1330,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "裂": {
+    "freq": 1041,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "襲": {
+    "freq": 1130,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "貢": {
+    "freq": 956,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "趣": {
+    "freq": 1153,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "距": {
+    "freq": 1191,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "籍": {
+    "freq": 907,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "露": {
+    "freq": 928,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "牧": {
+    "freq": 1360,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "刷": {
+    "freq": 1352,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "朗": {
+    "freq": 1374,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "潮": {
+    "freq": 1231,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "即": {
+    "freq": 1167,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "垣": {
+    "freq": 1539,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "威": {
+    "freq": 1103,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "封": {
+    "freq": 1143,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "筒": {
+    "freq": 1631,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "岳": {
+    "freq": 1334,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "慰": {
+    "freq": 1158,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "懇": {
+    "freq": 1135,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "懲": {
+    "freq": 1303,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "摩": {
+    "freq": 1252,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "擦": {
+    "freq": 1485,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "撲": {
+    "freq": 1283,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "斉": {
+    "freq": 1209,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "旨": {
+    "freq": 1166,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "柔": {
+    "freq": 1187,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "沈": {
+    "freq": 1271,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "沼": {
+    "freq": 1467,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "泰": {
+    "freq": 1281,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "滅": {
+    "freq": 1222,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "滋": {
+    "freq": 1563,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "炉": {
+    "freq": 1359,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "琴": {
+    "freq": 1591,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "寸": {
+    "freq": 1669,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "竜": {
+    "freq": 1195,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "縁": {
+    "freq": 1291,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "翼": {
+    "freq": 1201,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "吉": {
+    "freq": 711,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "刃": {
+    "freq": 1763,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "忍": {
+    "freq": 1700,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "桃": {
+    "freq": 1784,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "辛": {
+    "freq": 1607,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "謎": {
+    "freq": 2021,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "侍": {
+    "freq": 1939,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "俺": {
+    "freq": 1946,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "叱": {
+    "freq": 2255,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "娯": {
+    "freq": 1827,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "斗": {
+    "freq": 1885,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "朱": {
+    "freq": 1788,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "丘": {
+    "freq": 1405,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "梨": {
+    "freq": 1331,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "僕": {
+    "freq": 1236,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "匹": {
+    "freq": 1384,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "叫": {
+    "freq": 1426,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "釣": {
+    "freq": 1542,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "髪": {
+    "freq": 1474,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "嵐": {
+    "freq": 1910,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "涙": {
+    "freq": 1381,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "缶": {
+    "freq": 1543,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "姫": {
+    "freq": 1566,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "棚": {
+    "freq": 1594,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "粒": {
+    "freq": 1635,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "砲": {
+    "freq": 1268,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "雷": {
+    "freq": 1491,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "芽": {
+    "freq": 1691,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "塔": {
+    "freq": 1708,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "澄": {
+    "freq": 1722,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "矛": {
+    "freq": 1538,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "肌": {
+    "freq": 1559,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "舟": {
+    "freq": 1786,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "鐘": {
+    "freq": 1681,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "凶": {
+    "freq": 1673,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "塊": {
+    "freq": 1800,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "狩": {
+    "freq": 1785,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "頃": {
+    "freq": 2015,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "魂": {
+    "freq": 1748,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "脚": {
+    "freq": 1228,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "井": {
+    "freq": 339,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "呪": {
+    "freq": 2131,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "嬢": {
+    "freq": 2059,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "暦": {
+    "freq": 1765,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "曇": {
+    "freq": 1899,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "眺": {
+    "freq": 1726,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "裸": {
+    "freq": 1796,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "賭": {
+    "freq": 1989,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "疲": {
+    "freq": 1263,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "塾": {
+    "freq": 1297,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "卓": {
+    "freq": 1348,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "磨": {
+    "freq": 1608,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "菌": {
+    "freq": 1586,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "陰": {
+    "freq": 1393,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "霊": {
+    "freq": 1458,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "湿": {
+    "freq": 1517,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "硬": {
+    "freq": 1101,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "稼": {
+    "freq": 1264,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "嫁": {
+    "freq": 1581,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "溝": {
+    "freq": 1736,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "滝": {
+    "freq": 1478,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "狂": {
+    "freq": 1425,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "墨": {
+    "freq": 1616,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "穏": {
+    "freq": 1535,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鈍": {
+    "freq": 1574,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "魔": {
+    "freq": 1514,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "寮": {
+    "freq": 1705,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "盆": {
+    "freq": 1654,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "棟": {
+    "freq": 1406,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "斬": {
+    "freq": 2132,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "寧": {
+    "freq": 1697,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "椅": {
+    "freq": 2245,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "歳": {
+    "freq": 269,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "涼": {
+    "freq": 1783,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "猿": {
+    "freq": 1772,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "瞳": {
+    "freq": 2069,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鍵": {
+    "freq": 2029,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "零": {
+    "freq": 1217,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "碁": {
+    "freq": 1609,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "租": {
+    "freq": 2089,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "幽": {
+    "freq": 1996,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "泡": {
+    "freq": 1872,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "癖": {
+    "freq": 1973,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鍛": {
+    "freq": 1793,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "錬": {
+    "freq": 2221,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "穂": {
+    "freq": 1656,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "帝": {
+    "freq": 1276,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "瞬": {
+    "freq": 1265,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "菊": {
+    "freq": 1287,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "誇": {
+    "freq": 1272,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "阻": {
+    "freq": 1280,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "黙": {
+    "freq": 1338,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "俵": {
+    "freq": 1481,
+    "grade": 5,
+    "jlpt_new": 1
+  },
+  "綿": {
+    "freq": 1495,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "架": {
+    "freq": 1555,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "砕": {
+    "freq": 1579,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "粘": {
+    "freq": 1410,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "粧": {
+    "freq": 1545,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "欺": {
+    "freq": 1541,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "詐": {
+    "freq": 1511,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "霧": {
+    "freq": 1747,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "柳": {
+    "freq": 1169,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "佐": {
+    "freq": 474,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "尺": {
+    "freq": 1940,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "哀": {
+    "freq": 1715,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "唇": {
+    "freq": 1992,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "塀": {
+    "freq": 1991,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "墜": {
+    "freq": 1466,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "如": {
+    "freq": 1704,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "婆": {
+    "freq": 2435,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "崖": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "帽": {
+    "freq": 1742,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "幣": {
+    "freq": 1803,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "恨": {
+    "freq": 1877,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "憎": {
+    "freq": 1808,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "憩": {
+    "freq": 1731,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "扇": {
+    "freq": 1805,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "扉": {
+    "freq": 1866,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "挿": {
+    "freq": 1908,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "掌": {
+    "freq": 1757,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "滴": {
+    "freq": 2019,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "炊": {
+    "freq": 1777,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "爽": {
+    "freq": 2333,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "畳": {
+    "freq": 1665,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "瞭": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "箸": {
+    "freq": 2156,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "胴": {
+    "freq": 1904,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "芯": {
+    "freq": 2202,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "虹": {
+    "freq": 2110,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "帳": {
+    "freq": 1459,
+    "grade": 3,
+    "jlpt_new": 1
+  },
+  "蚊": {
+    "freq": 2121,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "蛇": {
+    "freq": 1721,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "貼": {
+    "freq": 2444,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "辱": {
+    "freq": 1769,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鉢": {
+    "freq": 1890,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "闇": {
+    "freq": 1969,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "隙": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "霜": {
+    "freq": 2151,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "飢": {
+    "freq": 1659,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "餓": {
+    "freq": 1754,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "畜": {
+    "freq": 1824,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "迅": {
+    "freq": 1888,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "騎": {
+    "freq": 1696,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "蓄": {
+    "freq": 1260,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "尽": {
+    "freq": 1234,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "彩": {
+    "freq": 1251,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "憶": {
+    "freq": 1324,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "溶": {
+    "freq": 1364,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "耐": {
+    "freq": 1295,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "踊": {
+    "freq": 1308,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "賢": {
+    "freq": 1159,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "輝": {
+    "freq": 1259,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "脅": {
+    "freq": 1183,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "麻": {
+    "freq": 1142,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "灯": {
+    "freq": 1605,
+    "grade": 4,
+    "jlpt_new": 2
+  },
+  "咲": {
+    "freq": 1534,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "培": {
+    "freq": 1431,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "悔": {
+    "freq": 1460,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "脇": {
+    "freq": 1806,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "遂": {
+    "freq": 1423,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "班": {
+    "freq": 1592,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "塗": {
+    "freq": 1414,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "斜": {
+    "freq": 1504,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "殴": {
+    "freq": 1622,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "盾": {
+    "freq": 1476,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "穫": {
+    "freq": 1642,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "巾": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "駒": {
+    "freq": 1452,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "紫": {
+    "freq": 1516,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "抽": {
+    "freq": 1437,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "誓": {
+    "freq": 1567,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "悟": {
+    "freq": 1411,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拓": {
+    "freq": 1526,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拘": {
+    "freq": 1336,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "礎": {
+    "freq": 1224,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鶴": {
+    "freq": 1369,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "刈": {
+    "freq": 1738,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "剛": {
+    "freq": 1576,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "唯": {
+    "freq": 1292,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "壇": {
+    "freq": 1512,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "尼": {
+    "freq": 1844,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "概": {
+    "freq": 1335,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "浸": {
+    "freq": 1447,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "淡": {
+    "freq": 1436,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "煮": {
+    "freq": 1565,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "覆": {
+    "freq": 1378,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "謀": {
+    "freq": 1370,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "陶": {
+    "freq": 1680,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "隔": {
+    "freq": 1382,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "征": {
+    "freq": 1578,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "陛": {
+    "freq": 1429,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "俗": {
+    "freq": 1610,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "桑": {
+    "freq": 1650,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "潤": {
+    "freq": 1644,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "珠": {
+    "freq": 1711,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "衰": {
+    "freq": 1432,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "奨": {
+    "freq": 1445,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "劣": {
+    "freq": 1620,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "勘": {
+    "freq": 1494,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "妃": {
+    "freq": 1752,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "丈": {
+    "freq": 1375,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "峰": {
+    "freq": 1836,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "巧": {
+    "freq": 1537,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "邪": {
+    "freq": 1612,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "駄": {
+    "freq": 1500,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "唐": {
+    "freq": 1727,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "廷": {
+    "freq": 1439,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鬱": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "簿": {
+    "freq": 1358,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "彰": {
+    "freq": 1310,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "漫": {
+    "freq": 1408,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "訂": {
+    "freq": 1690,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "諮": {
+    "freq": 1345,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "銘": {
+    "freq": 1394,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "堤": {
+    "freq": 1658,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "漂": {
+    "freq": 1492,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "翻": {
+    "freq": 1465,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "軌": {
+    "freq": 1480,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "后": {
+    "freq": 1583,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "奮": {
+    "freq": 1521,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "亭": {
+    "freq": 1627,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "仰": {
+    "freq": 1573,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "伯": {
+    "freq": 1741,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "偶": {
+    "freq": 1602,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "墳": {
+    "freq": 1822,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "壮": {
+    "freq": 1657,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "把": {
+    "freq": 1569,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "搬": {
+    "freq": 1664,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "晶": {
+    "freq": 1613,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "洞": {
+    "freq": 1618,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "涯": {
+    "freq": 1525,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "疫": {
+    "freq": 1661,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "孔": {
+    "freq": 2052,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "偉": {
+    "freq": 1639,
+    "grade": 8,
+    "jlpt_new": 3
+  },
+  "頂": {
+    "freq": 1350,
+    "grade": 6,
+    "jlpt_new": 3
+  },
+  "召": {
+    "freq": 1540,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "挟": {
+    "freq": 1870,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "枯": {
+    "freq": 1749,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "沸": {
+    "freq": 1709,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "濯": {
+    "freq": 1698,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "燥": {
+    "freq": 1819,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "瓶": {
+    "freq": 1528,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "耕": {
+    "freq": 1568,
+    "grade": 5,
+    "jlpt_new": 2
+  },
+  "肯": {
+    "freq": 1813,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "脂": {
+    "freq": 1548,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "膚": {
+    "freq": 1679,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "軒": {
+    "freq": 1416,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "軟": {
+    "freq": 1269,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "郊": {
+    "freq": 1304,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "隅": {
+    "freq": 1601,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "隻": {
+    "freq": 1546,
+    "grade": 8,
+    "jlpt_new": 2
+  },
+  "邸": {
+    "freq": 905,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "郡": {
+    "freq": 965,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "釈": {
+    "freq": 1097,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "肪": {
+    "freq": 1878,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "喚": {
+    "freq": 1120,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "媛": {
+    "freq": 1735,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "貞": {
+    "freq": 1389,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "玄": {
+    "freq": 1409,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "苗": {
+    "freq": 1713,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "渦": {
+    "freq": 1789,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "慈": {
+    "freq": 1811,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "襟": {
+    "freq": 2030,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "浦": {
+    "freq": 977,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "塚": {
+    "freq": 869,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "陥": {
+    "freq": 1154,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "貫": {
+    "freq": 1156,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "覇": {
+    "freq": 1173,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "呂": {
+    "freq": 2055,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "茨": {
+    "freq": 1203,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "擁": {
+    "freq": 1213,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "孤": {
+    "freq": 1239,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "賠": {
+    "freq": 1243,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鎖": {
+    "freq": 1250,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "噴": {
+    "freq": 1270,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "祥": {
+    "freq": 1273,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "牲": {
+    "freq": 1274,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "秩": {
+    "freq": 1275,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "唆": {
+    "freq": 1278,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "膨": {
+    "freq": 1293,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "芳": {
+    "freq": 1302,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "恒": {
+    "freq": 1314,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "倫": {
+    "freq": 1322,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "陳": {
+    "freq": 1323,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "須": {
+    "freq": 1339,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "偏": {
+    "freq": 1340,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "遇": {
+    "freq": 1343,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "糧": {
+    "freq": 1354,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "殊": {
+    "freq": 1361,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "慢": {
+    "freq": 1368,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "没": {
+    "freq": 1385,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "怠": {
+    "freq": 1703,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "遭": {
+    "freq": 1554,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "惰": {
+    "freq": 2336,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "猟": {
+    "freq": 1851,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "寛": {
+    "freq": 1377,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "胞": {
+    "freq": 1379,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "浄": {
+    "freq": 1383,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "随": {
+    "freq": 1396,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "稿": {
+    "freq": 1400,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "丹": {
+    "freq": 1402,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "壌": {
+    "freq": 1407,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "舗": {
+    "freq": 1412,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "騰": {
+    "freq": 1420,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "緯": {
+    "freq": 1430,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "艇": {
+    "freq": 1433,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "披": {
+    "freq": 1438,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "錦": {
+    "freq": 1440,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "准": {
+    "freq": 1441,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "剰": {
+    "freq": 1448,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "繊": {
+    "freq": 1451,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "諭": {
+    "freq": 1461,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "惨": {
+    "freq": 1463,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "虐": {
+    "freq": 1464,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "据": {
+    "freq": 1468,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "徐": {
+    "freq": 1470,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "搭": {
+    "freq": 1472,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "戴": {
+    "freq": 2332,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "帥": {
+    "freq": 2016,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "啓": {
+    "freq": 1403,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鯨": {
+    "freq": 1486,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "荘": {
+    "freq": 1489,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "栽": {
+    "freq": 1496,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拐": {
+    "freq": 1498,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "冠": {
+    "freq": 1503,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "勲": {
+    "freq": 1513,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "酬": {
+    "freq": 1515,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "紋": {
+    "freq": 1519,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "卸": {
+    "freq": 1520,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "欄": {
+    "freq": 1523,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "逸": {
+    "freq": 1524,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "尚": {
+    "freq": 1531,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "顕": {
+    "freq": 1536,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "粛": {
+    "freq": 1549,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "愚": {
+    "freq": 1551,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "庶": {
+    "freq": 1558,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "践": {
+    "freq": 1570,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "呈": {
+    "freq": 1571,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "疎": {
+    "freq": 1572,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "疾": {
+    "freq": 1577,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "謡": {
+    "freq": 1580,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鎌": {
+    "freq": 1587,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "酷": {
+    "freq": 1596,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "叙": {
+    "freq": 1954,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "且": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "痴": {
+    "freq": 1663,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "哺": {
+    "freq": 2461,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "傲": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "茎": {
+    "freq": 2013,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "悠": {
+    "freq": 1921,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "伏": {
+    "freq": 1604,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鎮": {
+    "freq": 1617,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "奉": {
+    "freq": 1624,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "憂": {
+    "freq": 1625,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "朴": {
+    "freq": 1626,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "栃": {
+    "freq": 1427,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "惜": {
+    "freq": 1641,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "佳": {
+    "freq": 1643,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "悼": {
+    "freq": 1645,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "該": {
+    "freq": 1648,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "赴": {
+    "freq": 1649,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "髄": {
+    "freq": 1652,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "傍": {
+    "freq": 1660,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "累": {
+    "freq": 1662,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "癒": {
+    "freq": 1667,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "郭": {
+    "freq": 1670,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "尿": {
+    "freq": 1672,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "賓": {
+    "freq": 1677,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "虜": {
+    "freq": 1678,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "憾": {
+    "freq": 1682,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "弥": {
+    "freq": 1687,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "粗": {
+    "freq": 1689,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "循": {
+    "freq": 1699,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "凝": {
+    "freq": 1712,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "脊": {
+    "freq": 2299,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "旦": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "愉": {
+    "freq": 1974,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "抹": {
+    "freq": 2006,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "栓": {
+    "freq": 2199,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "那": {
+    "freq": 1621,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拍": {
+    "freq": 1373,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "猶": {
+    "freq": 1799,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "宰": {
+    "freq": 1597,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "寂": {
+    "freq": 1599,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "縫": {
+    "freq": 1723,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "呉": {
+    "freq": 1729,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "凡": {
+    "freq": 1730,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "恭": {
+    "freq": 1737,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "錯": {
+    "freq": 1740,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "穀": {
+    "freq": 1744,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "陵": {
+    "freq": 1746,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "弊": {
+    "freq": 1750,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "舶": {
+    "freq": 1753,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "窮": {
+    "freq": 1756,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "悦": {
+    "freq": 1762,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "縛": {
+    "freq": 1764,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "轄": {
+    "freq": 1771,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "弦": {
+    "freq": 1773,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "窒": {
+    "freq": 1776,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "洪": {
+    "freq": 1778,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "摂": {
+    "freq": 1779,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "飽": {
+    "freq": 1780,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "紳": {
+    "freq": 1790,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "庸": {
+    "freq": 2038,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "搾": {
+    "freq": 2046,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "碑": {
+    "freq": 1792,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "尉": {
+    "freq": 2007,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "匠": {
+    "freq": 1718,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "賊": {
+    "freq": 2045,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鼓": {
+    "freq": 1795,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "旋": {
+    "freq": 1801,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "腸": {
+    "freq": 1807,
+    "grade": 4,
+    "jlpt_new": 1
+  },
+  "槽": {
+    "freq": 1809,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "伐": {
+    "freq": 1816,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "漬": {
+    "freq": 1818,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "坪": {
+    "freq": 1823,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "紺": {
+    "freq": 1825,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "羅": {
+    "freq": 1831,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "峡": {
+    "freq": 1833,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "俸": {
+    "freq": 1834,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "醸": {
+    "freq": 1838,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "弔": {
+    "freq": 1840,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "乙": {
+    "freq": 1841,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "遍": {
+    "freq": 1845,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "衡": {
+    "freq": 1847,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "款": {
+    "freq": 1854,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "閲": {
+    "freq": 1855,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "喝": {
+    "freq": 1858,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "敢": {
+    "freq": 1859,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "膜": {
+    "freq": 1804,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "盲": {
+    "freq": 1767,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "胎": {
+    "freq": 1861,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "酵": {
+    "freq": 1862,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "堕": {
+    "freq": 2087,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "遮": {
+    "freq": 1865,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "凸": {
+    "freq": 2143,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "凹": {
+    "freq": 2206,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "瑠": {
+    "freq": 2352,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "硫": {
+    "freq": 1867,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "赦": {
+    "freq": 1868,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "窃": {
+    "freq": 1871,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "慨": {
+    "freq": 1875,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "扶": {
+    "freq": 1879,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "戯": {
+    "freq": 1880,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "忌": {
+    "freq": 1882,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "濁": {
+    "freq": 1883,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "奔": {
+    "freq": 1884,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "肖": {
+    "freq": 1889,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "朽": {
+    "freq": 1891,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "殻": {
+    "freq": 1892,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "享": {
+    "freq": 1893,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "藩": {
+    "freq": 1896,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "媒": {
+    "freq": 1900,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鶏": {
+    "freq": 1901,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "嘱": {
+    "freq": 1903,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "迭": {
+    "freq": 1907,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "椎": {
+    "freq": 1911,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "絹": {
+    "freq": 1916,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "陪": {
+    "freq": 1917,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "剖": {
+    "freq": 1918,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "譜": {
+    "freq": 1919,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "淑": {
+    "freq": 1922,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "帆": {
+    "freq": 1923,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "憤": {
+    "freq": 1863,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "酌": {
+    "freq": 2271,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "暁": {
+    "freq": 1924,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "傑": {
+    "freq": 1926,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "錠": {
+    "freq": 1934,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "璃": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "遷": {
+    "freq": 1937,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拙": {
+    "freq": 1938,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "峠": {
+    "freq": 1941,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "篤": {
+    "freq": 1942,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "叔": {
+    "freq": 1950,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "雌": {
+    "freq": 1951,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "堪": {
+    "freq": 1953,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "吟": {
+    "freq": 1956,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "甚": {
+    "freq": 1961,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "崇": {
+    "freq": 1970,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "漆": {
+    "freq": 1971,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "岬": {
+    "freq": 1972,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "紡": {
+    "freq": 1876,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "礁": {
+    "freq": 1977,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "屯": {
+    "freq": 1980,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "姻": {
+    "freq": 1985,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "擬": {
+    "freq": 1990,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "睦": {
+    "freq": 1993,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "閑": {
+    "freq": 1994,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "曹": {
+    "freq": 1998,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "詠": {
+    "freq": 2000,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "卑": {
+    "freq": 2003,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "侮": {
+    "freq": 2004,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "鋳": {
+    "freq": 2005,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "蔑": {
+    "freq": 2483,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "胆": {
+    "freq": 1449,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "浪": {
+    "freq": 1508,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "禍": {
+    "freq": 2010,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "酪": {
+    "freq": 2012,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "憧": {
+    "freq": 2259,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "慶": {
+    "freq": 1300,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "亜": {
+    "freq": 1509,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "汰": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "沙": {
+    "freq": 1897,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "逝": {
+    "freq": 2018,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "匿": {
+    "freq": 2024,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "寡": {
+    "freq": 2035,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "痢": {
+    "freq": 2037,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "坑": {
+    "freq": 2040,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "藍": {
+    "freq": 2043,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "畔": {
+    "freq": 2049,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "唄": {
+    "freq": 2051,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拷": {
+    "freq": 2057,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "渓": {
+    "freq": 2063,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "廉": {
+    "freq": 2066,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "謹": {
+    "freq": 2068,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "湧": {
+    "freq": 2070,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "醜": {
+    "freq": 2074,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "升": {
+    "freq": 2077,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "殉": {
+    "freq": 2080,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "煩": {
+    "freq": 2081,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "劾": {
+    "freq": 2085,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "桟": {
+    "freq": 2093,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "婿": {
+    "freq": 2099,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "慕": {
+    "freq": 2100,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "罷": {
+    "freq": 2104,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "矯": {
+    "freq": 2105,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "某": {
+    "freq": 2106,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "囚": {
+    "freq": 2107,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "泌": {
+    "freq": 2112,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "漸": {
+    "freq": 2115,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "藻": {
+    "freq": 2124,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "妄": {
+    "freq": 2264,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "蛮": {
+    "freq": 2339,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "倹": {
+    "freq": 2479,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "挨": {
+    "freq": 2258,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "宛": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "畏": {
+    "freq": 2389,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "萎": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "壱": {
+    "freq": 2351,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "咽": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "淫": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "韻": {
+    "freq": 2148,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "臼": {
+    "freq": 2048,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "餌": {
+    "freq": 2277,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "謁": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "怨": {
+    "freq": 2137,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "艶": {
+    "freq": 2207,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "旺": {
+    "freq": 2342,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "翁": {
+    "freq": 2064,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "臆": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "箇": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "苛": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "蓋": {
+    "freq": 2388,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "骸": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "柿": {
+    "freq": 1745,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "嚇": {
+    "freq": 2141,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "顎": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "葛": {
+    "freq": 1547,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "褐": {
+    "freq": 2186,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "釜": {
+    "freq": 1761,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "瓦": {
+    "freq": 1850,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "棺": {
+    "freq": 2161,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "玩": {
+    "freq": 2216,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "畿": {
+    "freq": 1683,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "僅": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "斤": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "虞": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "串": {
+    "freq": 2139,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "窟": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "薫": {
+    "freq": 1849,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "稽": {
+    "freq": 2372,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "詣": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "桁": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "舷": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "股": {
+    "freq": 2212,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "乞": {
+    "freq": 2478,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "侯": {
+    "freq": 2363,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "勾": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "喉": {
+    "freq": 2390,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "慌": {
+    "freq": 1826,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "梗": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "墾": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "痕": {
+    "freq": 1958,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "挫": {
+    "freq": 1869,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "塞": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "采": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "柵": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "拶": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "蚕": {
+    "freq": 2272,
+    "grade": 6,
+    "jlpt_new": 1
+  },
+  "嗣": {
+    "freq": 2310,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "肢": {
+    "freq": 2289,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "賜": {
+    "freq": 2190,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "璽": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "嫉": {
+    "freq": 2317,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "爵": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "腫": {
+    "freq": 2145,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "儒": {
+    "freq": 2162,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "愁": {
+    "freq": 2171,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "蹴": {
+    "freq": 2377,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "遵": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "宵": {
+    "freq": 2262,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "抄": {
+    "freq": 2328,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "硝": {
+    "freq": 2154,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "詔": {
+    "freq": 2239,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "拭": {
+    "freq": 2421,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "薪": {
+    "freq": 2182,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "腎": {
+    "freq": 1755,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "裾": {
+    "freq": 2334,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "畝": {
+    "freq": 2327,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "凄": {
+    "freq": 2313,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "醒": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "戚": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "斥": {
+    "freq": 2231,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "煎": {
+    "freq": 2458,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "羨": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "腺": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "詮": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "繕": {
+    "freq": 2195,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "膳": {
+    "freq": 2120,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "塑": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "曽": {
+    "freq": 1320,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "遡": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "痩": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "捉": {
+    "freq": 1976,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "袖": {
+    "freq": 1960,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "唾": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "堆": {
+    "freq": 2184,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "但": {
+    "freq": 2404,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "綻": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "逐": {
+    "freq": 2230,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "嫡": {
+    "freq": 2130,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "衷": {
+    "freq": 2229,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "勅": {
+    "freq": 2157,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "捗": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "朕": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "潰": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "諦": {
+    "freq": 2457,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "逓": {
+    "freq": 1957,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "溺": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "妬": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "痘": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "謄": {
+    "freq": 2295,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "頓": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "弐": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "匂": {
+    "freq": 2213,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "捻": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "罵": {
+    "freq": 2467,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "剥": {
+    "freq": 2383,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "斑": {
+    "freq": 2165,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "氾": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "汎": {
+    "freq": 2014,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "頒": {
+    "freq": 2287,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "眉": {
+    "freq": 2177,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "膝": {
+    "freq": 2320,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "肘": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "賦": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "附": {
+    "freq": 2396,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "丙": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "蔽": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "倣": {
+    "freq": 2454,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "貌": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "勃": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "昧": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "繭": {
+    "freq": 2495,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "冥": {
+    "freq": 2349,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "麺": {
+    "freq": 2331,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "耗": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "餅": {
+    "freq": 2152,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "冶": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "妖": {
+    "freq": 1964,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "窯": {
+    "freq": 2072,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "沃": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "濫": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "吏": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "侶": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "厘": {
+    "freq": 1835,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "弄": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "楼": {
+    "freq": 2173,
+    "grade": 8,
+    "jlpt_new": 1
+  },
+  "麓": {
+    "freq": 2366,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "刹": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "喩": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "嗅": {
+    "freq": 2480,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "嘲": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "毀": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "彙": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "恣": {
+    "freq": 2325,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "惧": {
+    "freq": 2097,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "慄": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "憬": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "拉": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "摯": {
+    "freq": 2170,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "曖": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "楷": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "璧": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "瘍": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "箋": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "籠": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "緻": {
+    "freq": 2460,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "羞": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "訃": {
+    "freq": 2379,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "諧": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "貪": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "踪": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "辣": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "錮": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "塡": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  },
+  "頰": {
+    "freq": null,
+    "grade": 8,
+    "jlpt_new": null
+  }
+}
