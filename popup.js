@@ -66,7 +66,6 @@ document.getElementById("checkButton").addEventListener("click", async () => {
       el.textContent = kanji;
 
       const freq = kanjiMeta[kanji]?.freq ?? 9999;
-      el.style.backgroundColor = getColorFromFrequency(freq);
       el.style.borderRadius = "4px";
       el.style.padding = "4px";
 
@@ -74,4 +73,3 @@ document.getElementById("checkButton").addEventListener("click", async () => {
     });
   });
 });
-

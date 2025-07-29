@@ -1,8 +1,11 @@
 {
   "manifest_version": 3,
   "name": "Kanji Grid Companion",
-  "version": "0.2",
+  "version": "0.3",
   "permissions": ["activeTab", "storage", "scripting", "contextMenus"],
+"background": {
+    "service_worker": "background.js"
+  },
   "action": {
     "default_popup": "popup.html"
   },
