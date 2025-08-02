@@ -74,3 +74,8 @@ document.getElementById("checkButton").addEventListener("click", async () => {
     });
   });
 });
+
+document.getElementById("settingsButton").addEventListener("click", () => {
+  const panel = document.getElementById("settingsPanel");
+  panel.classList.toggle("settings-hidden");
+});
