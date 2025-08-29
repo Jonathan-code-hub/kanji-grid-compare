@@ -14,3 +14,6 @@ Useful for **sentence mining** and **word mining** while studying Japanese.
 3. Click **Load unpacked** and select the `extension/` folder
 
 Google Apps Page Coming Soon
+
+#Anki connect add on implementation coming soon.
+
