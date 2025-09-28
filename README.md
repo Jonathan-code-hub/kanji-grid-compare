@@ -16,6 +16,7 @@ Useful for **sentence mining** and **word mining** while studying Japanese.
 Google Apps Page Coming Soon
 
 # Anki connect add on implementation coming soon.
+# Next update coming soon, before the end of October.
 
 
 
